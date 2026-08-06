@@ -11,11 +11,11 @@ If you do not have a link yet, leave that section as an empty list: []
 */
 
 const studentProfile = {
-  name: "Your Name",
+  name: "Kaya Balagot",
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Write a short paragraph about yourself here. You might include your scientific interests, what you hope to learn in DREAM-High, and something you are excited to explore in computational biology.",
+  bio: "Hello! My name is Kaya Balagot, and I am a high school student passionate about neonatal care and the intersection of artificial intelligence, medicine, and scientific research. This website documents my journey through the DREAM-High program, where I explored cancer genomics, bioinformatics, and the growing role of AI in oncology",
 
   /*
   Optional photo:
