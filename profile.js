@@ -50,13 +50,9 @@ const studentProfile = {
       url: "http://rpubs.com/kaya33/1449925"
     },
      {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    },
-     {
-      title: "Finding Patterns with Heatmaps",
-      url: "https://rpubs.com/"
-    },
+      title: "Cancer Cell Line R Activity",
+      url: "http://rpubs.com/kaya33/1451380"
+    }
   ],
 
   /*
@@ -66,8 +62,8 @@ const studentProfile = {
   */
   finalProject: {
     title: "My DREAM-High Final Project",
-    description: "Write one or two sentences describing your final project.",
-    url: ""
+    description: "AI meets oncology: a closer look into AI's role in cancer treatment and data bias",
+    url: "file:///C:/Users/zawes/Downloads/AI%20meets%20oncology.pdf"
   },
 
   /*
