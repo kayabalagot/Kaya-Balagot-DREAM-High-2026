@@ -47,7 +47,7 @@ const studentProfile = {
     },
      {
       title: "Gene Expression Heatmaps",
-      url: "https://rpubs.com/"
+      url: "http://rpubs.com/kaya33/1449925"
     },
      {
       title: "Finding Patterns with Heatmaps",
