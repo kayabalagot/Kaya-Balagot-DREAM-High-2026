@@ -44,7 +44,19 @@ const studentProfile = {
     {
       title: "Finding Patterns with Heatmaps",
       url: "https://rpubs.com/"
-    }
+    },
+     {
+      title: "Gene Expression Heatmaps",
+      url: "https://rpubs.com/"
+    },
+     {
+      title: "Finding Patterns with Heatmaps",
+      url: "https://rpubs.com/"
+    },
+     {
+      title: "Finding Patterns with Heatmaps",
+      url: "https://rpubs.com/"
+    },
   ],
 
   /*
