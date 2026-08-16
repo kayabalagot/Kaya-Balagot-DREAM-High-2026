@@ -63,7 +63,7 @@ const studentProfile = {
   finalProject: {
     title: "My DREAM-High Final Project",
     description: "AI meets oncology: a closer look into AI's role in cancer treatment and data bias",
-    url: "file:///C:/Users/zawes/Downloads/AI%20meets%20oncology.pdf"
+    url: "https://canva.link/fk9rtcco4dg6zn2"
   },
 
   /*
